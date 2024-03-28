@@ -1,0 +1,11 @@
+#Print_Sum/Diff_of_2_Numbers:
+
+#Taking_Variable_and_Value...
+
+a = 6
+b = 4
+sum = a + b
+diff = a - b
+
+print(sum)
+print(diff)
